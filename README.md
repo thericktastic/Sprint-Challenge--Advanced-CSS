@@ -33,14 +33,19 @@ Demonstrate your understanding of this week's concepts by answering the followin
 Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your project manager
 
 1. What is the difference between an adaptive website and a fully responsive website?
+In an adaptive website the layout is designed for each media query/breakpoint whereas on a responsive website the layout adjusts for any screen size using responsive units within each media query.
 
 2. Describe what it means to be mobile first vs desktop first.
+If a website is designed to be mobile first then the initial width and layout are chosen with a mobile display in mind, but can expand/shift to fit desktop displays. If a website is designed to be desktop first then the initial width and layout are chosen with desktop displays in mind, but can shrink to fit mobile displays.
 
 3. What does `font-size: 62.5%` in the `html` tag do for us when using `rem` units?
+It allows the font to respond to the default font-size settings the user sets for his or her browser.
 
 4. How would you describe preprocessing to someone new to CSS?
+Vanilla CSS is like driving a stick shift car with no power steering, power windows, radio, or air conditioning while using a preprocessor is like driving that same car with an automatic transmission, power everything, and a cleaner paint job. Both cars are going to get the job done (and the first one can still be more fun) but the second car is going to make your life much more comfortable and save you headaches.
 
 5. What is your favorite concept in preprocessing? What is the concept that gives you the most trouble?
+Nesting is my favorite concept in preprocessing because it makes it so much easier to stay organized and take up less space. I think mixins are giving me the most trouble because I haven't used them enough to be familiar with using them.
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
